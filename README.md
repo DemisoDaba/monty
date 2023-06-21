@@ -16,7 +16,6 @@ Files containing Monty byte codes commonly utilize the .m extension, which has b
 * To know the common implementations of stacks and queues
 * To know the most common use cases of stacks and queues
 * To know the proper way to use global variables
-* 
 ## Compilation & Output
 * These codes were compiled using: ```gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty```
 * Any output must be printed on ```stdout```
